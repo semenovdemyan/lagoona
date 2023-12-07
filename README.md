@@ -1,1 +1,1 @@
-# lagoona is my first project. (Skillbox)
+# Lagoona. My first study project. (Skillbox)
